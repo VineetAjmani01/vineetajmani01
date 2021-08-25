@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm _Vineet Ajmani_
+
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on any Web Development Project
+- 🤔 I’m looking for help with Flask, Django.
+- 💬 Ask me about Front End using HTML, CSS, Javascript, Graphic Designing, Video Editing.
+- 📫 How to reach me: Contact me directly on my [Linkedin](https://www.linkedin.com/in/vineet-ajmani01/)
+- ⚡ Fun fact: I can work without music
 
 <!--
 **VineetAjmani01/vineetajmani01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
