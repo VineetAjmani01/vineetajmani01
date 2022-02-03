@@ -1,4 +1,4 @@
-![MasterHead]((https://user-images.githubusercontent.com/83583852/152306347-4ea34016-8e6f-4bed-bc21-36ab7fbad820.png)
+![MasterHead](https://user-images.githubusercontent.com/83583852/152306347-4ea34016-8e6f-4bed-bc21-36ab7fbad820.png)
 
 <h1 align="center">Hi 👋, I'm Vineet Ajmani</h1>
 <h3 align="center">A passionate BCA Student from JIMS, Rohini (India)</h3>
